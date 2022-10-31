@@ -2,7 +2,7 @@
 
 ##
 
-- 🖊️ Atualmente estou aprendendo: C, back-end (Java Servlets, Spring MVC), e SQL
+- 🖊️ Atualmente estou aprendendo: C, C++ e SQL
 - 💻 Procuro trabalhar com desenvolvimento web back-end
 - 📫 Contacte-me com o email: caiomarques546@gmail.com
 - 😄 Pronomes: ele/dele
