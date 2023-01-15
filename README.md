@@ -2,10 +2,9 @@
 
 ##
 
-- 🖊️ Atualmente estou aprendendo: C, C++ e SQL
+- 🖊️ Atualmente estou aprendendo: Java (Spring) e SQL
 - 💻 Procuro trabalhar com desenvolvimento web back-end
 - 📫 Contacte-me com o email: caiomarques546@gmail.com
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/CaioVicenzi">
