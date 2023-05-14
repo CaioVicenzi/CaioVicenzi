@@ -2,9 +2,9 @@
 
 ##
 
-- 🖊️ Atualmente estou aprendendo: Java (Spring) e SQL
-- 💻 Procuro trabalhar com desenvolvimento web back-end
-- 📫 Contacte-me com o email: caiomarques546@gmail.com
+- 🖊️ Atualmente estou aprendendo: Swift e SwiftUI
+- 💻 Procuro trabalhar com desenvolvimento mobile iOS
+- 📫 Contacte-me com o email: caiomarques02@gmail.com
 
 <div align="center">
   <a href="https://github.com/CaioVicenzi">
