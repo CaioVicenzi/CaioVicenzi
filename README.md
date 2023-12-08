@@ -2,7 +2,7 @@
 
 ##
 
-- 🖊️ Atualmente estou aprendendo: Swift e SwiftUI
+- 🖊️ Atualmente estou aprendendo: Swift (usando as frameworks front-end: SwiftUI, UIKit e SpriteKit)
 - 💻 Procuro trabalhar com desenvolvimento mobile iOS
 - 📫 Contacte-me com o email: caiomarques02@gmail.com
 
