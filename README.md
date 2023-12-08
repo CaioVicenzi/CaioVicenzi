@@ -20,6 +20,7 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img height = "30" width = "40" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fswift&psig=AOvVaw3NU8CcDQuhzfUk7Tf-H70K&ust=1702129125016000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiPiKH7_4IDFQAAAAAdAAAAABAD" />
 </div>
 
 
